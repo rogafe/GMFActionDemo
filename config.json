@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.rogafe.pw",
     "Tags": [ "dotnet", "csharp","golang","python","osint" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Instances": [ "mastodon.xyz", "mastodon.social" ]
 }
